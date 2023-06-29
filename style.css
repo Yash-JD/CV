@@ -130,6 +130,7 @@ body {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    margin-top: 50px;
 }
 
 .about-col-1 {
@@ -160,7 +161,7 @@ body {
 
 .titles-links {
     margin-right: 50px;
-    font-size: 18px;
+    font-size: 25px;
     font-weight: 500;
     cursor: pointer;
     /* position: relative; */
@@ -192,7 +193,7 @@ body {
 
 .titles-contents ul li span {
     color: #b54769;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .titles-contents {
